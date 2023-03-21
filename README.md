@@ -62,15 +62,6 @@ npm run test
 
 If you find an issue running this project please send in a PR.
 
-## Author
-
-👤 **Onasanya Tunde**
-
-- Website: https://onasanyatunde.codes
-- Twitter: [@simply_rammy](https://twitter.com/simply_rammy)
-- Github: [@rammyblog](https://github.com/rammyblog)
-- LinkedIn: [@onasanya-tunde](https://linkedin.com/in/onasanya-tunde)
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
